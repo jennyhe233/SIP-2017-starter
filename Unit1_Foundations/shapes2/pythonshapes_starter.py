@@ -11,6 +11,7 @@ y_pos = -150
 t.setposition(x_pos, y_pos)
 
 ### Write your code below:
+pendown()
 for i in range(4):
     forward(100)
     right(90)
