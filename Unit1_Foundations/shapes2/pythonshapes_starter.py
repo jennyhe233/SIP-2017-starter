@@ -11,10 +11,9 @@ y_pos = -150
 t.setposition(x_pos, y_pos)
 
 ### Write your code below:
-
-
-
-
+for i in range(4):
+    forward(100)
+    right(90)
 
 
 # Close window on click.
